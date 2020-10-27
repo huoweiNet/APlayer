@@ -1,0 +1,3 @@
+ComObjectView.dll 是用于 对象_查看（）的，且非调试模式并不会加载。
+如果是WIN7 注册ccrpftv6.ocx 需要右键管理员运行 注册ccrpftv6.bat
+
